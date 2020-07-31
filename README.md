@@ -1,6 +1,4 @@
-### Hi there!!! :wave:
-
-### I am Tooba Ali!
+<img src="https://media.giphy.com/media/icJCUGCZQ8ClOFUVKA/giphy.gif">
 
 - Software engineer to be! :smiley::innocent:
 - Addicted to web development! :computer: :bulb:
