@@ -11,4 +11,5 @@
 - I’m looking to collaborate on ReactJS, NodeJS :mag_right:
 - Developing Code Editor for kids to help them get their hands dirty with coding! :heart_eyes: :star: :sparkles:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toobaali1)](https://github.com/toobaali1/github-readme-stats)
 
